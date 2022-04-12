@@ -112,6 +112,7 @@ public:
 	~A()
 	{
 		cout << "A destructor" << endl;
+		cout << "Hello" << endl;
 	}
 
 private:
