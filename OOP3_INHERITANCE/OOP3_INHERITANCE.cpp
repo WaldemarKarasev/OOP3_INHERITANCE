@@ -19,6 +19,8 @@ public:
 
 private:
 	string name;
+	int age;
+	int weight;
 };
 
 class Student : public Human
