@@ -53,6 +53,7 @@ public:
 	void Learn()
 	{
 		cout << "Learn at home, group:" << GetGroup() << endl;
+		cout << "Class: " << endl;
 	}
 
 };
