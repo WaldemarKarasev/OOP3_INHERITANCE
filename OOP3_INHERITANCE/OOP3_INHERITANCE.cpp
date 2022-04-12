@@ -15,10 +15,12 @@ public:
 	void GetName()
 	{
 		cout << "Name:" << name << endl;
+		cout << "Job: " << job;
 	}
 
 private:
 	string name;
+	string job;
 };
 
 class Student : public Human
