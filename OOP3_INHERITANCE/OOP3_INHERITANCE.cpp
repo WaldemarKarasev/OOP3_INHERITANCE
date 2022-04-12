@@ -95,7 +95,7 @@ public:
 	//если его закомментировать, то будет ошибка в B()
 	A()
 	{
-		msg = "Not Empty Message";
+		msg = "Empty Message";
 		//	cout << "A constructor" << endl;
 	}
 
